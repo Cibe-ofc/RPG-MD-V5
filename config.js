@@ -36,23 +36,23 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '083892969926'
-global.povo = '-'
-global.pgopay = '085797375014'
-global.ppulsa = '083892969926'
-global.ppulsa2 = '085797375014'
-global.psaweria = '-'
+global.pdana = 'chatowner'
+global.povo = 'chatowner'
+global.pgopay = 'chatowner'
+global.ppulsa = 'chatowner'
+global.ppulsa2 = 'chatowner'
+global.psaweria = 'chatowner'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283892969926'
+global.nomorbot = '62857973750143'
 global.nomorown = '6285797375014'
-global.namebot = 'Etesラ'
-global.nameown = 'ᴹᴿ᭄ King Etes ×፝֟͜×'
+global.namebot = 'KingMon'
+global.nameown = 'ᴹᴿ᭄ King ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285797375014', 'ᴹᴿ᭄ King Etes ×፝֟͜×', 'true']
+  ['6285797375014', 'ᴹᴿ᭄ King ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,14 +102,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Etesラ | By ᴹᴿ᭄ King Etes ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ King Etes ×፝֟͜×'
-global.wm3 = 'King Etesラ | By ᴹᴿ᭄ King Etes ×፝֟͜×'
+global.wm = 'Etesラ | By ᴹᴿ᭄ King Mon ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ King Mon ×፝֟͜×'
+global.wm3 = 'King Monラ | By ᴹᴿ᭄ King Mon ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = 'King Etesラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Etes ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Etes ×፝֟͜×'
+global.author = 'ᴹᴿ᭄ King Of Mon×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ King Of Mon ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'November 4 2022'
 
@@ -126,7 +126,7 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Etes ×፝֟͜×'
+global.nameowner = 'ᴹᴿ᭄ King Of Mon ×፝֟͜×'
 global.umurowner = '23'
 global.asalowner = 'Amerika Serikat, New York'
 global.nomorowner = 'wa.me/6285797375014'
@@ -378,8 +378,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = '𝐊𝐢𝐧𝐠 𝐎𝐟 𝐄𝐭𝐞𝐬'
-global.stickauth = `King Of Etes`
+global.stickpack = '𝐊𝐢𝐧𝐠 𝐎𝐟 𝐌𝐨𝐧'
+global.stickauth = `King Of Mon`
 
 global.multiplier = 38 // The higher, The harder levelup
 
